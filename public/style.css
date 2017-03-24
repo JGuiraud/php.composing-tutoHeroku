@@ -1,0 +1,32 @@
+img {
+    height: auto;
+    width: 100%;
+}
+
+.card-container {
+    /*margin-bottom: 100px;*/
+    height: 65rem;
+    margin-bottom: 2em;
+}
+
+.card {
+    border: 2px #DCDCDD solid;
+    border-radius: 5px 5px;;
+    height: 100%
+}
+
+.card-block {
+    padding: 10px 15px 0px 15px;
+    height: auto;
+}
+
+.card-job {
+    color: grey;
+    margin-top: -10px;
+}
+
+.bottom-align-text {
+position: absolute;
+bottom: 0;
+right: 2em;
+}
